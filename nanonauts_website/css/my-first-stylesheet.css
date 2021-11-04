@@ -1,4 +1,5 @@
 /* Set sizing to border box method */
+
 html {
     box-sizing: border-box;
 }
